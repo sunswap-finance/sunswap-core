@@ -1,0 +1,16 @@
+{
+  "abi": [],
+  "evm": {
+    "bytecode": {
+      "object": "",
+      "sourceMap": ""
+    },
+    "deployedBytecode": {
+      "object": "",
+      "sourceMap": ""
+    }
+  },
+  "metadata": "{\"compiler\":{\"version\":\"0.8.6+commit.11564f7e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"contracts/libraries/Context.sol\":\"Context\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":999999},\"remappings\":[]},\"sources\":{\"contracts/libraries/Context.sol\":{\"keccak256\":\"0xf85ba24aca6a219be58ee82e453490f1358ac94d67f42e8c15ad93dd24b9d9dc\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://c1ff02d829b413a27234a2837b9adfd84693dcf508a2935967be9f4592160cc1\",\"dweb:/ipfs/QmengRHPpNR9gtQDtbBPh8ugXYUnm23Z8V7txrxr6Whfrd\"]}},\"version\":1}",
+  "interface": [],
+  "bytecode": ""
+}
